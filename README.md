@@ -16,7 +16,7 @@ https://www.figma.com/proto/O8ou1MpT1DZ3UuGWs6ZkiL/we-r-family?page-id=0%3A1&nod
 
 ## 🎥 Demo Video
 Google Drive Link:  
-https://drive.google.com/file/d/1kki3C9oQvBGga91ne5nvGhI__2cxLI-T/view?usp=drive_link
+https://drive.google.com/file/d/1rwyr68VqRXz1FhIyKTxlH4aAVO9hrO9K/view?usp=drivesdk
 
 ---
 
